@@ -1,6 +1,7 @@
-# Run Packer With Variable Flag
+# Build Windows Image with Packer Using a Variable Flag
 
 # Prerequisite 
+
 ## Install
 - [Packer CLI](https://developer.hashicorp.com/packer/tutorials/docker-get-started/get-started-install-cli )
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
@@ -29,25 +30,15 @@
 
 5. Switch to desired OS directory
 
-    ### For Windows
-
     ```cd windows```
 
-    ### For Linux
-
-    ```cd linux```
 
 6. Update environment variables values in set-variables file 
 
 7. Run set-variables file
-
-    ### For Windows
     
     ```./set-variables.ps1```
 
-    ### For Linux
-
-    ```[PLACE_HOLDER]```
 
 7. Validate environment variables are being set
 
