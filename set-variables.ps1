@@ -1,0 +1,8 @@
+[Environment]::SetEnvironmentVariable('PKR_VAR_client_id', '68fddac5-96ea-4e6b-bab2-74b2aacf03c2')
+[Environment]::SetEnvironmentVariable('PKR_VAR_client_secret', 'o9U8Q~K1jvxv7nXBWjsLYyyhSPYxxUj5WU1Rwb63')
+[Environment]::SetEnvironmentVariable('PKR_VAR_subscription_id', '769694a4-2d24-4063-b133-087f5afc292d')
+[Environment]::SetEnvironmentVariable('PKR_VAR_tenant_id', '16b3c013-d300-468d-ac64-7eda0820b6d3')
+[Environment]::SetEnvironmentVariable('PKR_VAR_resource_group_name', 'urjasonipackertest')
+[Environment]::SetEnvironmentVariable('PKR_VAR_image_publisher', 'MicrosoftWindowsServer')
+[Environment]::SetEnvironmentVariable('PKR_VAR_image_offer', 'WindowsServer')
+[Environment]::SetEnvironmentVariable('PKR_VAR_image_sku', '2019-Datacenter')
